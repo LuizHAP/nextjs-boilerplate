@@ -1,8 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
 
-const bla = 'var'
-
 export default function Home() {
   return (
     <div className="container">
